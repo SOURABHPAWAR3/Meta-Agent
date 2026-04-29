@@ -236,8 +236,3 @@ VoiceOwl is India's first purpose-built Generative AI Contact Center for enterpr
 | Documentation (10pts) | This README + inline code comments |
 | Bonus (10pts) | Modular sub-agents + VoiceOwl deployment context |
 
----
-
-## 👤 Author
-
-Built as part of the Prompt Engineer / AI Solutions Engineer assessment.
